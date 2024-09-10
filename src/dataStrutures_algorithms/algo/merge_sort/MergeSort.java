@@ -58,7 +58,8 @@ public class MergeSort {
 			.forEach(System.out::print);
 		System.out.println();
 		
-		int[] arr3 = {3,1,4,2};
+//		int[] arr3 = {3,1,4,2};
+		int[] arr3 = {-2,3,-5};
 		System.out.print("unsorted array : ");
 		Arrays.stream(arr3).forEach(System.out::print);
 		System.out.println();
